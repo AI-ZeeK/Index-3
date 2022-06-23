@@ -63,3 +63,10 @@ h5.modal-title {
 .socialWrapper{
     margin: auto;
 }
+
+.scroll-tracker{
+    position: fixed;
+    inset: 0 0 auto;
+    height: 0.5rem;
+    background-color: #C32F10;
+}
